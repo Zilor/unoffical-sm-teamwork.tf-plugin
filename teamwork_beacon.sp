@@ -19,4 +19,4 @@ public void OnPluginStart()
 {
 	CreateConVar("tw_version", PLUGIN_VERSION, "SourceMod version for the Teamwork network beacon", FCVAR_NOTIFY);
 	CreateConVar("tw_beacon", "", "Your Teamwork beacon id", FCVAR_NOTIFY|FCVAR_ARCHIVE);
-};
+}

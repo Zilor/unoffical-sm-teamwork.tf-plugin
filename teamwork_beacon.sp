@@ -12,7 +12,7 @@ public Plugin myinfo =
 	author = "teamworktf & Zilor",
 	description = "Allows you to set a Teamwork beacon id",
 	version = PLUGIN_VERSION,
-	url = ""
+	url = "https://github.com/Zilor/unoffical-sm-teamwork.tf-plugin"
 };
 
 public void OnPluginStart()
